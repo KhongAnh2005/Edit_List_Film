@@ -1,0 +1,17 @@
+:root{
+    --color-main:#121212;
+    --color-one:#1C1818;
+    --color-two:#F8C100;
+    --color-text:#fff;
+    
+  }
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color:var(--color-main);
+    color:var(--color-text);
+    font-family: Arial, sans-serif;
+  }
+  
